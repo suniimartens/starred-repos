@@ -261,7 +261,7 @@
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Free AI coding with static context
 - [felixrieseberg/windows95](https://github.com/felixrieseberg/windows95) - Windows 95 in an app. Runs on macOS, Linux, and Windows.
-- [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - Mii Creator - *VERY OLD* OSS Version. No support or updates!
+- [datkat21/mii-creator](https://github.com/datkat21/mii-creator) - Mii Creator - *VERY OLD* Source-Available Version. No support or updates!
 - [larsenv/discross](https://github.com/larsenv/discross) - A webhook bridge to send messages on Discord through a webpage
 - [Jebushdd/react-gh-pages-es](https://github.com/Jebushdd/react-gh-pages-es) - Deploy de una app React (creada usando create-react-app) a GitHub Pages
 - [gitname/react-gh-pages](https://github.com/gitname/react-gh-pages) - Deploying a React App (created using create-react-app) to GitHub Pages
