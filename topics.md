@@ -240,6 +240,7 @@
 
 ## font 
 
+- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [ansilove/BlockZone](https://github.com/ansilove/BlockZone) - A faithful recreation of the original DOS font.
 
@@ -290,6 +291,7 @@
 
 ## homebrew 
 
+- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [htv04/wiilove](https://github.com/htv04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
 
 ## html 
@@ -370,6 +372,7 @@
 
 ## minecraft 
 
+- [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
 - [ElyPrismLauncher/Launcher](https://github.com/ElyPrismLauncher/Launcher) - This fork of Prism Launcher adds integrated support for Ely.by accounts.
 - [Elaina69/Yes-Steve-Model-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - YSM models I collected from various sources, free to use. Please join YSM discord server if you have any question:
 - [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric / (Neo)Forge mod to expertly edit your books with rich formatting options and page utilities
