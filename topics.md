@@ -68,6 +68,7 @@
 - [open-source](#open-source)
 - [others](#others)
 - [pixel-art](#pixel-art)
+- [portfolio](#portfolio)
 - [portfolio-website](#portfolio-website)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -505,6 +506,10 @@
 ## pixel-art 
 
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
+
+## portfolio 
+
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 
 ## portfolio-website 
 
