@@ -408,6 +408,7 @@
 
 ## others 
 
+- [patchzyy/Wiicompiled](https://github.com/patchzyy/Wiicompiled) - Wiicompiled
 - [Vickerinox/Astronaut](https://github.com/Vickerinox/Astronaut) - A custom DSi "firmware"
 - [njiedev/miituber](https://github.com/njiedev/miituber) - Turn your Mii into a VTuber with webcam head tracking, voice-reactive lip sync, and transparent OBS capture.
 - [ryzendew/Linux-Affinity-Installer](https://github.com/ryzendew/Linux-Affinity-Installer) - A repository that helps users get affinity software working on GNU/Linux 🐧
