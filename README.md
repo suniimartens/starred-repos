@@ -68,6 +68,7 @@
 
 ## C++ 
 
+- [patchzyy/Wiicompiled](https://github.com/patchzyy/Wiicompiled) - Wiicompiled
 - [ElyPrismLauncher/Launcher](https://github.com/ElyPrismLauncher/Launcher) - This fork of Prism Launcher adds integrated support for Ely.by accounts.
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++
 - [BespokeSynth/BespokeSynth](https://github.com/BespokeSynth/BespokeSynth) - Software modular synth
