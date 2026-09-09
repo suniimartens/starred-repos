@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -31,6 +32,10 @@
 - [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vue](#vue)
+
+## Adblock Filter List 
+
+- [Stevoisiak/Stevos-AI-Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist) - A filter list that hides website features which use Generative AI & content labeled as AI Generated.
 
 ## Assembly 
 
