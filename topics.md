@@ -408,6 +408,7 @@
 
 ## others 
 
+- [Stevoisiak/Stevos-AI-Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist) - A filter list that hides website features which use Generative AI & content labeled as AI Generated.
 - [patchzyy/Wiicompiled](https://github.com/patchzyy/Wiicompiled) - Wiicompiled
 - [Vickerinox/Astronaut](https://github.com/Vickerinox/Astronaut) - A custom DSi "firmware"
 - [njiedev/miituber](https://github.com/njiedev/miituber) - Turn your Mii into a VTuber with webcam head tracking, voice-reactive lip sync, and transparent OBS capture.
