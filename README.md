@@ -86,7 +86,7 @@
 - [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
 - [htv04/wiilove](https://github.com/htv04/wiilove) - Framework for making 2D Nintendo Wii homebrew games in Lua
 - [openmultiplayer/open.mp](https://github.com/openmultiplayer/open.mp) - Open Multiplayer, a multiplayer mod fully backwards compatible with SA-MP
-- [EvanatorM/ScuffedMinecraft](https://github.com/EvanatorM/ScuffedMinecraft) - A Minecraft Clone in C++
+- [WSAL-Evan/ScuffedMinecraft](https://github.com/WSAL-Evan/ScuffedMinecraft) - A Minecraft Clone in C++
 - [PhoneVR-Developers/PhoneVR](https://github.com/PhoneVR-Developers/PhoneVR) - Use Steam VR-enabled applications with your phone as HMD (Head-mounted display). The only Open-Source solution to similar commercial packages like VRidge, iVRy, Trinus etc etc.
 - [zii/netscape](https://github.com/zii/netscape) - Mirror of Netscape 5.0 source code
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
