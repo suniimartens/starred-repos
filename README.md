@@ -162,7 +162,6 @@
 ## Lua 
 
 - [ShipMaster1/Balatro-DS-Port](https://github.com/ShipMaster1/Balatro-DS-Port) - A port of Balatro to the Nintendo DS
-- [Haynster/Balatro-DS-Port](https://github.com/Haynster/Balatro-DS-Port) - A port of Balatro to the Nintendo DS
 - [SLMP-Team/SLMP](https://github.com/SLMP-Team/SLMP) - OpenSource GTA: San Andreas Multiplayer based on Lua Language
 - [jdriselvato/NDS-Homebrew-Development](https://github.com/jdriselvato/NDS-Homebrew-Development) - My research for developing on the Nintendo DS
 
