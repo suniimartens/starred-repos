@@ -464,7 +464,7 @@
 - [xwiimote/xwiimote](https://github.com/xwiimote/xwiimote) - Open Source Nintendo Wii Remote Linux Device Driver
 - [Nixeld/MudaeAutoBot](https://github.com/Nixeld/MudaeAutoBot) - Automatically Roll, Claim Kakera and Snipe Characters in Mudae with many more features!
 - [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
-- [larsenv/discross](https://github.com/larsenv/discross) - A webhook bridge to send messages on Discord through a webpage
+- [larsenv/discross](https://github.com/larsenv/discross) - Discross is an accessibility bridge that renders Discord channels for devices with basic HTML web browsers. Access Discord on vintage computers, retro game consoles, and low-resource hardware.
 - [ayunami2000/ayunpictojava](https://github.com/ayunami2000/ayunpictojava) - PictoChat web app with a server written in Java!
 - [2l47/pony.town-antiafk](https://github.com/2l47/pony.town-antiafk) - An anti-AFK script for the game Pony Town and its derivatives.
 - [devkitPro/nds-examples](https://github.com/devkitPro/nds-examples) - Examples for Nintendo DS using devkitARM, calico, libnds, libdvm, maxmod, dswifi
