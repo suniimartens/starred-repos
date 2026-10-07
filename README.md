@@ -236,6 +236,7 @@
 
 ## Rust 
 
+- [storytold/effectcraft](https://github.com/storytold/effectcraft) - 
 - [Vickerinox/Astronaut](https://github.com/Vickerinox/Astronaut) - A custom DSi "firmware"
 - [vxfemboy/purrcrypt](https://github.com/vxfemboy/purrcrypt) - A fur-ociously secure encryption tool that encodes your secrets as adorable cat and dog sounds, using real elliptic curve cryptography with a playful disguise.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
