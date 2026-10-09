@@ -171,6 +171,7 @@
 
 ## Others 
 
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [Kowgan/ksp_cheat_sheets](https://github.com/Kowgan/ksp_cheat_sheets) - A collection of helpful cheat sheets for the game Kerbal Space Program by SQUAD
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [hyperballic/Windows-Sounds-for-Plasma](https://github.com/hyperballic/Windows-Sounds-for-Plasma) - 
