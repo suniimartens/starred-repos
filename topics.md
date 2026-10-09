@@ -409,6 +409,7 @@
 
 ## others 
 
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [storytold/effectcraft](https://github.com/storytold/effectcraft) - 
 - [papayuh/chatds](https://github.com/papayuh/chatds) - LLM running on the Nintendo DS
 - [Stevoisiak/Stevos-AI-Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist) - A filter list that hides website features which use Generative AI & content labeled as AI Generated.
