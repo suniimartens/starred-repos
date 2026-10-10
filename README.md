@@ -237,6 +237,8 @@
 
 ## Rust 
 
+- [storytold/cadcraft](https://github.com/storytold/cadcraft) - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
+- [storytold/soundcraft](https://github.com/storytold/soundcraft) - An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust
 - [storytold/effectcraft](https://github.com/storytold/effectcraft) - 
 - [Vickerinox/Astronaut](https://github.com/Vickerinox/Astronaut) - A custom DSi "firmware"
 - [vxfemboy/purrcrypt](https://github.com/vxfemboy/purrcrypt) - A fur-ociously secure encryption tool that encodes your secrets as adorable cat and dog sounds, using real elliptic curve cryptography with a playful disguise.
