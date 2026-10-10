@@ -409,6 +409,8 @@
 
 ## others 
 
+- [storytold/cadcraft](https://github.com/storytold/cadcraft) - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
+- [storytold/soundcraft](https://github.com/storytold/soundcraft) - An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [storytold/effectcraft](https://github.com/storytold/effectcraft) - 
 - [papayuh/chatds](https://github.com/papayuh/chatds) - LLM running on the Nintendo DS
