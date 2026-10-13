@@ -76,6 +76,7 @@
 - [react](#react)
 - [ruby](#ruby)
 - [rust](#rust)
+- [security](#security)
 - [server](#server)
 - [software](#software)
 - [svelte](#svelte)
@@ -450,7 +451,7 @@
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI coding for VS Code
+- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Blazing fast AI coding with static context
 - [joshxviii/animalese-typing-desktop](https://github.com/joshxviii/animalese-typing-desktop) - A desktop version of my Animalese Typing Web Extension!
 - [joshxviii/animalese-typing](https://github.com/joshxviii/animalese-typing) - Animalese Typing extension for Chrome and Firefox
 - [OpenToolKit/CompressPDF](https://github.com/OpenToolKit/CompressPDF) - Fast in-browser PDF compressor
@@ -557,6 +558,10 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
 - [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast
+
+## security 
+
+- [ayn2op/discordo](https://github.com/ayn2op/discordo) - A lightweight, secure, and feature-rich Discord terminal (TUI) client.
 
 ## server 
 
