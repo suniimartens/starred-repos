@@ -23,6 +23,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
@@ -168,6 +169,10 @@
 ## Makefile 
 
 - [cuibonobo/nds_vscode_template](https://github.com/cuibonobo/nds_vscode_template) - A template for developing Nintendo DS homebrew in Visual Studio Code.
+
+## Nix 
+
+- [Thang1191/MikuPlymouth](https://github.com/Thang1191/MikuPlymouth) - Dynamic Miku Plymouth Theme that rotates every boot
 
 ## Others 
 
