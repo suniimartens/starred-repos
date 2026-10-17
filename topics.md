@@ -410,6 +410,7 @@
 
 ## others 
 
+- [Thang1191/MikuPlymouth](https://github.com/Thang1191/MikuPlymouth) - Dynamic Miku Plymouth Theme that rotates every boot
 - [carafe-nx/carafe](https://github.com/carafe-nx/carafe) - Desktop app that turns Windows games into Switch apps
 - [storytold/cadcraft](https://github.com/storytold/cadcraft) - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
 - [storytold/soundcraft](https://github.com/storytold/soundcraft) - An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust
