@@ -27,6 +27,7 @@
 - [discord](#discord)
 - [docker](#docker)
 - [dotfiles](#dotfiles)
+- [downloader](#downloader)
 - [electron](#electron)
 - [elixir](#elixir)
 - [emulator](#emulator)
@@ -216,6 +217,11 @@
 ## dotfiles 
 
 - [SeraphimeZelel/rion-ricing](https://github.com/SeraphimeZelel/rion-ricing) - My dotfiles to make GNOME look and feel like Hyprland. A personal project to cope with the never-released Arknights Endfield.
+
+## downloader 
+
+- [Epicpkmn11/dsidl](https://github.com/Epicpkmn11/dsidl) - A simple QR based file downloader for the DSi
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## electron 
 
