@@ -141,7 +141,7 @@
 ## JavaScript 
 
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
-- [nick-redwill/LiveLockScreen](https://github.com/nick-redwill/LiveLockScreen) - A GNOME Shell extension that lets you set any video as your lock screen background
+- [nick-redwill/LiveLockScreen](https://github.com/nick-redwill/LiveLockScreen) - Play videos and GIFs on the GNOME lock screen.
 - [SeraphimeZelel/rion-ricing](https://github.com/SeraphimeZelel/rion-ricing) - My dotfiles to make GNOME look and feel like Hyprland. A personal project to cope with the never-released Arknights Endfield.
 - [codingMASTER398/kasaneteto](https://github.com/codingMASTER398/kasaneteto) - 
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
