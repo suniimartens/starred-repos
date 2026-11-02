@@ -51,10 +51,11 @@
 
 ## C 
 
+- [carafe-nx/carafe](https://github.com/carafe-nx/carafe) - Desktop app that turns Windows games into Switch apps
 - [Sycorlax/Meowdo](https://github.com/Sycorlax/Meowdo) - meowdo is a cute, keyboard-driven todo list with a cat sidekick. It lives in your terminal, supports tags, search, pinning, and remembers everything in ~/.local/share/meowdo/todos.txt
 - [p2r3/bareiron](https://github.com/p2r3/bareiron) - Minimalist Minecraft server for memory-restrictive embedded systems
 - [BubblePlayzTHEREAL/discord-3ds-homebrew](https://github.com/BubblePlayzTHEREAL/discord-3ds-homebrew) - 
-- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - Apple Silicon device emulator.
+- [ChefKissInc/Inferno](https://github.com/ChefKissInc/Inferno) - moved to https://git.chefkiss.dev/AppleHax/Inferno
 - [Hydr8gon/sm64](https://github.com/Hydr8gon/sm64) - A port of Super Mario 64 for the DSi
 - [Hydr8gon/Project-DS](https://github.com/Hydr8gon/Project-DS) - Project DIVA for the DS!
 - [GBALATRO/balatro-gba](https://github.com/GBALATRO/balatro-gba) - A demake of Balatro for the GBA
@@ -242,7 +243,6 @@
 
 ## Rust 
 
-- [carafe-nx/carafe](https://github.com/carafe-nx/carafe) - Desktop app that turns Windows games into Switch apps
 - [storytold/cadcraft](https://github.com/storytold/cadcraft) - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
 - [storytold/soundcraft](https://github.com/storytold/soundcraft) - An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust
 - [storytold/effectcraft](https://github.com/storytold/effectcraft) - EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust
