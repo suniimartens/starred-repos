@@ -6,6 +6,7 @@
 ## Contents
 
 - [android](#android)
+- [android-app](#android-app)
 - [animation](#animation)
 - [api](#api)
 - [atom](#atom)
@@ -110,6 +111,10 @@
 - [PhoneVR-Developers/PhoneVR](https://github.com/PhoneVR-Developers/PhoneVR) - Use Steam VR-enabled applications with your phone as HMD (Head-mounted display). The only Open-Source solution to similar commercial packages like VRidge, iVRy, Trinus etc etc.
 - [Darkrock-Studios/hammer-editor](https://github.com/Darkrock-Studios/hammer-editor) - A simple tool for building stories.
 - [atouu/rekuta](https://github.com/atouu/rekuta) - A simple UTAU voicebank recorder app for android.
+
+## android-app 
+
+- [Geoxor/Amethyst](https://github.com/Geoxor/Amethyst) - A cross-platform music player made with Typescript
 
 ## animation 
 
@@ -464,7 +469,7 @@
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
-- [robertpiosik/CodeWebChat](https://github.com/robertpiosik/CodeWebChat) - Markdown prompts for chatbots, APIs, and CLIs with seamless integration
+- [CodeWebChat/CWC](https://github.com/CodeWebChat/CWC) - Markdown prompts for chatbots, APIs, and CLIs with seamless integration
 - [joshxviii/animalese-typing-desktop](https://github.com/joshxviii/animalese-typing-desktop) - A desktop version of my Animalese Typing Web Extension!
 - [joshxviii/animalese-typing](https://github.com/joshxviii/animalese-typing) - Animalese Typing extension for Chrome and Firefox
 - [OpenToolKit/CompressPDF](https://github.com/OpenToolKit/CompressPDF) - Fast in-browser PDF compressor
