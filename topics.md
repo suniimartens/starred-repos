@@ -487,7 +487,7 @@
 - [Epicpkmn11/fake-08](https://github.com/Epicpkmn11/fake-08) - A Pico-8 player/emulator for console homebrew
 - [iProgramMC/CelesteNES](https://github.com/iProgramMC/CelesteNES) - A demake of a game about climbing a mountain.
 - [xwiimote/xwiimote](https://github.com/xwiimote/xwiimote) - Open Source Nintendo Wii Remote Linux Device Driver
-- [Nixeld/MudaeAutoBot](https://github.com/Nixeld/MudaeAutoBot) - Automatically Roll, Claim Kakera and Snipe Characters in Mudae with many more features!
+- [Nixeld/MudaeAutoBot](https://github.com/Nixeld/MudaeAutoBot) - Automatically Roll, Claim Kakera and Snipe Characters in Mudae with OC solver and many more features!
 - [DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu) - DSi Menu replacement for DS/DSi/3DS/2DS
 - [larsenv/discross](https://github.com/larsenv/discross) - Discross is an accessibility bridge that renders Discord channels for devices with basic HTML web browsers. Access Discord on vintage computers, retro game consoles, and low-resource hardware.
 - [ayunami2000/ayunpictojava](https://github.com/ayunami2000/ayunpictojava) - PictoChat web app with a server written in Java!
