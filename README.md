@@ -217,7 +217,7 @@
 - [sean1832/pinterest-dl](https://github.com/sean1832/pinterest-dl) - An unofficial Pinterest media downloader
 - [RunOrVeith/pinterestDL](https://github.com/RunOrVeith/pinterestDL) - Fast, parallel downloading of pinterest pages, such as boards and search results. Filter by size, only download new pins that were not downloaded before, and more.
 - [Merubokkusu/Discord-S.C.U.M](https://github.com/Merubokkusu/Discord-S.C.U.M) - A Discord API Wrapper for Userbots/Selfbots written in Python.
-- [Nixeld/MudaeAutoBot](https://github.com/Nixeld/MudaeAutoBot) - Automatically Roll, Claim Kakera and Snipe Characters in Mudae with many more features!
+- [Nixeld/MudaeAutoBot](https://github.com/Nixeld/MudaeAutoBot) - Automatically Roll, Claim Kakera and Snipe Characters in Mudae with OC solver and many more features!
 - [2l47/pony.town-antiafk](https://github.com/2l47/pony.town-antiafk) - An anti-AFK script for the game Pony Town and its derivatives.
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [belangeo/pyo](https://github.com/belangeo/pyo) - Python DSP module
