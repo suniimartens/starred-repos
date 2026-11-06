@@ -70,6 +70,7 @@
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
 - [others](#others)
+- [penetration-testing](#penetration-testing)
 - [pixel-art](#pixel-art)
 - [portfolio](#portfolio)
 - [portfolio-website](#portfolio-website)
@@ -200,6 +201,7 @@
 
 ## cybersecurity 
 
+- [Ilias1988/Hacking-Cheatsheets](https://github.com/Ilias1988/Hacking-Cheatsheets) - A comprehensive collection of penetration testing cheatsheets, guides, and tools.
 - [ZXCurban/NetOrbit](https://github.com/ZXCurban/NetOrbit) - Network traffic visualization tool
 
 ## deployment 
@@ -528,6 +530,10 @@
 - [DiscordMessenger/dm](https://github.com/DiscordMessenger/dm) - Discord Messenger is a free Discord-compatible messaging client that works on 30 years of Windows versions.
 - [EyeOdin/Pigment.O](https://github.com/EyeOdin/Pigment.O) - Krita - Plugin - Color Picker, Mixer and Sampler
 - [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - RiMusic is a multilingual and multiplatform application for streaming music
+
+## penetration-testing 
+
+- [Ilias1988/Hacking-Cheatsheets](https://github.com/Ilias1988/Hacking-Cheatsheets) - A comprehensive collection of penetration testing cheatsheets, guides, and tools.
 
 ## pixel-art 
 
