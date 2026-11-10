@@ -432,8 +432,8 @@
 
 - [Thang1191/MikuPlymouth](https://github.com/Thang1191/MikuPlymouth) - Dynamic Miku Plymouth Theme that rotates every boot
 - [carafe-nx/carafe](https://github.com/carafe-nx/carafe) - Desktop app that turns Windows games into Switch apps
-- [storytold/cadcraft](https://github.com/storytold/cadcraft) - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
-- [storytold/soundcraft](https://github.com/storytold/soundcraft) - An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust
+- [storytold/cadcraft](https://github.com/storytold/cadcraft) - CADCraft: computer-aided design and drafting — an open-source, clean-room CAD application in pure Rust
+- [storytold/soundcraft](https://github.com/storytold/soundcraft) - SoundCraft: an open-source, clean-room digital audio workstation (DAW) in pure Rust
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [papayuh/chatds](https://github.com/papayuh/chatds) - LLM running on the Nintendo DS
 - [Stevoisiak/Stevos-AI-Blocklist](https://github.com/Stevoisiak/Stevos-AI-Blocklist) - A filter list that hides website features which use Generative AI & content labeled as AI Generated.
@@ -578,7 +578,7 @@
 
 ## rust 
 
-- [storytold/effectcraft](https://github.com/storytold/effectcraft) - EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust
+- [storytold/effectcraft](https://github.com/storytold/effectcraft) - EffectCraft: An open-source motion graphics and compositing tool written from scratch in pure Rust
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
 - [ZacharyL2/KeyEcho](https://github.com/ZacharyL2/KeyEcho) - Listen to Mechanical Keyboard Sounds with Every Keystroke - It's Fast
