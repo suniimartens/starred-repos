@@ -62,6 +62,7 @@
 - [markdown](#markdown)
 - [microsoft](#microsoft)
 - [minecraft](#minecraft)
+- [mobile](#mobile)
 - [monitoring](#monitoring)
 - [music](#music)
 - [node](#node)
@@ -297,6 +298,7 @@
 
 ## gui 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [Devsfy/wiregui](https://github.com/Devsfy/wiregui) - A graphical user interface for wireguard (client-side) for linux and windows
 
 ## hacktoberfest 
@@ -394,6 +396,10 @@
 - [Elaina69/Yes-Steve-Model-Repo](https://github.com/Elaina69/Yes-Steve-Model-Repo) - YSM models I collected from various sources, free to use. Please join YSM discord server if you have any question:
 - [chrrs/scribble](https://github.com/chrrs/scribble) - Fabric / (Neo)Forge mod to expertly edit your books with rich formatting options and page utilities
 - [Pumpkin-MC/Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) - Empowering everyone to host fast and efficient Minecraft servers
+
+## mobile 
+
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 ## monitoring 
 
