@@ -141,6 +141,7 @@
 
 ## JavaScript 
 
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [nick-redwill/LiveLockScreen](https://github.com/nick-redwill/LiveLockScreen) - Play videos, images and GIFs on the GNOME lock screen.
 - [SeraphimeZelel/rion-ricing](https://github.com/SeraphimeZelel/rion-ricing) - My dotfiles to make GNOME look and feel like Hyprland. A personal project to cope with the never-released Arknights Endfield.
@@ -178,7 +179,6 @@
 ## Others 
 
 - [Ilias1988/Hacking-Cheatsheets](https://github.com/Ilias1988/Hacking-Cheatsheets) - A comprehensive collection of penetration testing cheatsheets, guides, and tools.
-- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo.
 - [Kowgan/ksp_cheat_sheets](https://github.com/Kowgan/ksp_cheat_sheets) - A collection of helpful cheat sheets for the game Kerbal Space Program by SQUAD
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
 - [hyperballic/Windows-Sounds-for-Plasma](https://github.com/hyperballic/Windows-Sounds-for-Plasma) - 
