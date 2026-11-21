@@ -178,6 +178,7 @@
 
 ## Others 
 
+- [costlyclick/dsamp](https://github.com/costlyclick/dsamp) - DS Amp
 - [Ilias1988/Hacking-Cheatsheets](https://github.com/Ilias1988/Hacking-Cheatsheets) - A comprehensive collection of penetration testing cheatsheets, guides, and tools.
 - [Kowgan/ksp_cheat_sheets](https://github.com/Kowgan/ksp_cheat_sheets) - A collection of helpful cheat sheets for the game Kerbal Space Program by SQUAD
 - [chubin/awesome-console-services](https://github.com/chubin/awesome-console-services) - A curated list of awesome console services (reachable via HTTP, HTTPS and other network protocols)
